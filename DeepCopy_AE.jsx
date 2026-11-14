@@ -8,7 +8,7 @@
  * Tested on AE CC 2019 through AE 2026. Pure ES3 – no modern JS features,
  * because ExtendScript still ships an ES3 engine even in 2026. Yes, really.
  *
- * https://github.com/user/deepcopy-ae   (replace with actual URL)
+ * https://github.com/user/deepcopy-ae   
  * MIT License
  */
 
